@@ -2,7 +2,7 @@
 Contributors: nilovelez
 Tags: featured-images, custom-background, theme-options, translation-ready
 Requires at least: 4.6
-Tested up to: 6.3
+Tested up to: 6.9
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -29,6 +29,15 @@ Blank it's actually safer than all those bloated multi-purpose themes. There isn
 I probably can, but I probably won't. Blank serves a single pupose, closing the front-end, and it does that beatifully. If there's anything more you need, fork it or install a plugin.
 
 == Changelog ==
+
+= 3.2 =
+* Tested up tp WordPress 6.9
+* Changed the logo default image size to 512x512 to make it easier to reuse the site icon
+* Upddated the code to remove unused WordPress frontend css styles
+* Removed the automatic home link from the home logo
+
+= 3.1.1 =
+* Tested up to WordPress 6.6
 
 = 3.1 =
 * Tested up to WordPress 6.3
@@ -111,3 +120,18 @@ Feature testing:
 * 16:00 PM let's make a theme!
 * 18:00 PM I've made a theme!
 * 18:05 PM Have I made a theme?
+
+== Copyright ==
+
+Intentionally Blank Theme, (C) Nilo Vélez.
+Intentionally Blank is distributed under the terms of the GNU GPL.
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.
